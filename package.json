@@ -1,0 +1,12 @@
+{
+  "name": "gw2-identifier",
+  "version": "1.0.0",
+  "description": "Generates random gw2-flavored identifiers",
+  "main": "identifier.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hobinjk@gmail.com",
+  "license": "MIT",
+  "type": "module"
+}
